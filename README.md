@@ -10,3 +10,4 @@ Feel free to use this as a starting point of a really small frontend project.
 ### Project Setup
 1. `npm install`
 2. `npm run start`
+3. Open [http://localhost:3000/](http://localhost:3000/) in your fav browser
